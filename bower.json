@@ -1,0 +1,28 @@
+{
+  "name": "kitty-base",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adamsilver/kitty-base",
+  "authors": [
+    "Adam Silver <adambsilver@gmail.com>"
+  ],
+  "description": "Kitty base components",
+  "main": [
+  	"src/kitty.js",
+  	"src/kitty.clone.js",
+  	"src/kitty.inherit.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "kitty"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
