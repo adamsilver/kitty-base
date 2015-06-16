@@ -1,11 +1,11 @@
 {
-  "name": "kitty-base",
+  "name": "lamina-base",
   "version": "0.0.0",
-  "homepage": "https://github.com/adamsilver/kitty-base",
+  "homepage": "https://github.com/adamsilver/lamina-base",
   "authors": [
     "Adam Silver <adambsilver@gmail.com>"
   ],
-  "description": "Kitty base components",
+  "description": "Lamina base components",
   "main": [
   	"src/kitty.js",
   	"src/kitty.clone.js",
