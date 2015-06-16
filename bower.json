@@ -5,7 +5,7 @@
   "authors": [
     "Adam Silver <adambsilver@gmail.com>"
   ],
-  "description": "Lamina base components",
+  "description": "Litty base components",
   "main": [
   	"src/kitty.js",
   	"src/kitty.clone.js",
